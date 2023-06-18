@@ -1,0 +1,1 @@
+The objective of this practical project is to implement a file transfer system between a server and multiple clients using sockets in C++ and coordinate the multiple simultaneous connections between clients and server using threads.
