@@ -1,0 +1,1 @@
+This repository contains some of the practical projects developed on the subject 'Técnicas de Modelagem de Sistemas Dinâmicos' ('Dynamic Systems Modeling Techniques') of the Systems Engineering B.Sc. at UFMG.
